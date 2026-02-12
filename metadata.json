@@ -1,0 +1,7 @@
+{
+  "name": "HydroSmart Academy",
+  "description": "Platform pembelajaran interaktif pertanian hidroponik modern dan sistem pengairan cerdas dengan kurikulum terbaru.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
